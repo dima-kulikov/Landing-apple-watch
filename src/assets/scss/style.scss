@@ -1,5 +1,8 @@
 // h1 style
-
+@font-face {
+    font-family: SF Pro Display; /* Имя шрифта */
+    src: url(../fonts/FontsFree-Net-SFProDisplay-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
 
 * {
     box-sizing: border-box;
